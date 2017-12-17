@@ -1,0 +1,19 @@
+{
+  "name": "aws-sam-ci-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onBass-naga/aws-sam-ci-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onBass-naga/aws-sam-ci-sample/issues"
+  },
+  "homepage": "https://github.com/onBass-naga/aws-sam-ci-sample#readme"
+}
